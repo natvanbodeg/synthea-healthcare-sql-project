@@ -1,9 +1,7 @@
 This project contains SQL queries applied to a synthetic healthcare dataset (modified Synthea data) using PostgreSQL. The goal is to practice and demonstrate SQL skills in healthcare data analytics by querying patient information, conditions, and other healthcare-related data.
 
-Project Description
 In this project, I wrote SQL queries to analyze and retrieve data from a synthetic healthcare database. The queries focus on healthcare encounters, patient information, conditions, immunizations, and more. The dataset used is the synthetic Synthea healthcare data, which is often used for practice and educational purposes.
 
-SQL Queries
 The queries included in this project are:
 
 Retrieve all encounters that are outpatient or ambulatory: This helps analyze routine or less critical patient visits.
@@ -20,4 +18,5 @@ Join immunization records with patient details: Combines immunization data with 
 
 
 Project Files
+
 postgres_healthcare_project_queries.sql: Contains the SQL queries for analyzing the healthcare dataset.
